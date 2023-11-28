@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+.card {
+    border-radius: 8px;
+    width: 50%;
+    height: 200px;
+    font-size: 26px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+#total {
+    background-color: #142a36;
+}
+#sale {
+    background-color: #215475;
+}
+#rental {
+    background-color: #f66b0c;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
